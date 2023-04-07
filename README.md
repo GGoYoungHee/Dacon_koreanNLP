@@ -1,6 +1,8 @@
 <img width="540" alt="test____" src="https://user-images.githubusercontent.com/77769026/157399666-55f09337-af92-4882-ba44-48e892c744a9.png">
 - 대회 세상 쿨하게 나감~
 
+- 기간: 2022.01 ~ 2022.02
+
 # Dacon 참가
 - hugging face 처음으로 사용해봄
 - nlp 관심이 없었지만, transfer learning 부분은 신박한 아이디어 인 것 같다.
